@@ -1,4 +1,4 @@
-# 200 AI Prompts for Claude AI Niche
+# 200-ai-prompts-for-claude-ai-niche
 
 Get ready to unlock the full potential of your Claude AI with this unique and diverse pack of 200 prompts! Crafted by Dolphin - a creative and uncensored AI, these prompts are tailored specifically fo
 
@@ -6,7 +6,7 @@ Get ready to unlock the full potential of your Claude AI with this unique and di
 
 | Property | Value |
 |---|---|
-| Records | 4 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Get ready to unlock the full potential of your Claude AI with this unique and di
 ## Sample
 
 ```json
-"What's the most innovative application of Claude AI in today's market?"
+Keys: title, description, price
 ```
 
 ## Usage
